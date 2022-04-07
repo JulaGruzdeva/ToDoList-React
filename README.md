@@ -1,1 +1,1 @@
-Mobile To Do List: https://vercel.com/julagruzdeva/to-do-react/CvTx5YXfmpv59f1Jtgu1w2KxNiyp
+Mobile To Do List: https://to-do-react-kns4um0n1-julagruzdeva.vercel.app/
