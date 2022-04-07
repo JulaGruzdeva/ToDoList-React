@@ -1,0 +1,16 @@
+.ButtonPlus{
+    position: absolute;
+    width: 51px;
+    height: 51px;
+    background: #F4ABAB;
+    justify-content: center;
+    align-items: center;
+    z-index: 2;
+    right: 20px;
+    bottom: 50px;
+    border: none;
+    border-radius: 100%;
+}
+.img{
+    margin: 0 auto;
+}

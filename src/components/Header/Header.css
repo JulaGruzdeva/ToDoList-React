@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+.Header{
+    position: relative;
+    height: 133px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Bebas Neue', cursive;
+    background-image: url('../../../img/BlueBack.jpg');
+    
+    /* background-size: 250px; */
+}
+.title{
+    position: absolute;
+    margin: 0 auto;
+    font-size: 35px;
+    margin-bottom: 40px;
+    color: #F4ABAB;
+    
+    
+}
+hr{
+    border: none;
+    border-radius: 2px;
+    background-color: #F4ABAB;
+    width: 100px; 
+    height: 2px;
+    margin-bottom: -2px;
+}

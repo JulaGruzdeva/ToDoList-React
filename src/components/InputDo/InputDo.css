@@ -1,0 +1,41 @@
+@import url(https://fonts.googleapis.com/css?family=Archivo:100,200,300,regular,500,600,700,800,900,100italic,200italic,300italic,italic,500italic,600italic,700italic,800italic,900italic);
+.Main{
+    display: flex;
+    justify-content: center;
+}
+.InputBlock{
+    position: absolute;
+    top: 30px;
+    display: flex;
+    justify-content: space-between;
+    /* align-items: center; */
+    padding: 5px 5px;
+    width: 255px;
+    height: 40px;
+    border: 2px solid #F4ABAB;
+    border-radius: 7px;
+    background: white;
+    
+}
+
+.InputTask{
+    width: 210px;
+    font-size: 22px;
+    font-weight: 400;
+    font-family: 'Archivo', sans-serif;
+    border: none;
+    padding-left: 8px;
+    color: #555555;
+    outline: none;
+}
+::placeholder{
+    font-size: 18px;
+}
+
+.Icon{
+    position: relative;
+    float: right;
+    margin: 10px 10px;
+    
+
+}

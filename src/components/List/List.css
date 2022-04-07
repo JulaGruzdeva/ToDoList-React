@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo:wght@400;500&display=swap');
+.List{
+    font-family: 'Archivo', sans-serif;
+    margin-left: 15px;
+    margin-top: 15px;
+    font-weight: 400;
+    overflow: auto;
+    height: 45%;
+}
+
+
