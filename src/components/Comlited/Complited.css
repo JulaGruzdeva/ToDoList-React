@@ -2,20 +2,22 @@
 @import url('https://fonts.googleapis.com/css2?family=Archivo:wght@400;500&display=swap');
 
 
-.Complited{
+.Complited {
     position: relative;
     z-index: 1;
     font-family: 'Archivo', sans-serif;
     margin-left: 15px;
     margin-top: 0px;
     font-weight: 400;
-    
+
     overflow: auto;
-    height: 15%;
-    
+    /* height: fit-content; */
+    height: 30%;
+
 }
-.title-do{
-    
+
+.title-do {
+
     font-family: 'Bebas Neue', cursive;
     font-weight: 400;
     font-size: 35px;
@@ -26,14 +28,16 @@
     margin-left: 15px;
     color: #F4ABAB;
 }
-.BsTrash{
-    margin-left: 50px ;
+
+.BsTrash {
+    margin-left: 50px;
     width: 20px;
     height: 20px;
     color: #F4ABAB;
     cursor: pointer;
 }
-.ListItem{
+
+.ListItem {
     display: flex;
-    
+
 }
